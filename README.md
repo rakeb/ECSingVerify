@@ -8,4 +8,4 @@ Some basic feature implemented for Ellecptic Curve.
 
 3. `ecVerify(String sign, ECPublicKey ecPublicKey, String message)`: Verify a signatue data.
 
-4. Convert a byte array public key into java public key object.
+4. `genEcPubKey()`: Convert a byte array public key into java public key object.
