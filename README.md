@@ -1,4 +1,5 @@
-# ECPSingVerify
+# Elliptic Curve Signature generation and Verification
+
 Some basic feature implemented for Ellecptic Curve.
 
 1. `ecKeyPairGenerator(String curveName)`: Generates ECKeyPair, shows public key and write private key
